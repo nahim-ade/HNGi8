@@ -1,7 +1,7 @@
 # HNGi8
 
-![alt text](Favicon.png)
+![alt text](images/zuri.png)
 
-![alt text](http://url/to/img.png)
+![alt text](images/ingressive.png)
 
-![alt text](http://url/to/img.png)
+![alt text](images/hng.png)
