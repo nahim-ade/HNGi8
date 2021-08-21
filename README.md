@@ -1,7 +1,7 @@
 # HNGi8
 
 
-# [MY PORTFOLIO](nahim-ade.github.io)
+# [MY PORTFOLIO](http://nahim-ade.github.io)
 
 # [ZURI INTERNSHIP](https://zuri.team)
 
